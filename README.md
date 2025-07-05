@@ -33,7 +33,7 @@ It is built to assist in early identification and help guide recommendations in 
 
 ```sh
 git clone https://github.com/ArvdSrh/AnxRelief-AI-Model.git
-cd anxiety-level-detector
+cd AnxRelief-AI-Model
 ```
 
 ### 2. Start the server
